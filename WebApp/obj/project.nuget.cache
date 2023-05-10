@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2A0Bsf+9NAzC9EVe0SW8ehLedq0Pfg5TKSraNm99GSDGkK9BOhtqOaavP2pNw95cqdV0XFiDlxsm8/8thM6pQg==",
+  "success": true,
+  "projectFilePath": "/home/astump/src/dotnet/WebApp/WebApp.csproj",
+  "expectedPackageFiles": [
+    "/home/astump/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.16/microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "/home/astump/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.16/microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "/home/astump/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.16/microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

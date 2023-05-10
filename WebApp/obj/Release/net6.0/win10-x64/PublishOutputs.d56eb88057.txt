@@ -1,0 +1,5 @@
+/home/astump/src/dotnet/WebApp/WebApp.exe/appsettings.Development.json
+/home/astump/src/dotnet/WebApp/WebApp.exe/appsettings.json
+/home/astump/src/dotnet/WebApp/WebApp.exe/WebApp.pdb
+/home/astump/src/dotnet/WebApp/WebApp.exe/aspnetcorev2_inprocess.dll
+/home/astump/src/dotnet/WebApp/WebApp.exe/WebApp.exe

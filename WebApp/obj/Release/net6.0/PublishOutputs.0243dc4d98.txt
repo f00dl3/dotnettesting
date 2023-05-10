@@ -1,0 +1,7 @@
+/home/astump/src/dotnet/WebApp/bin/Release/net6.0/publish/WebApp
+/home/astump/src/dotnet/WebApp/bin/Release/net6.0/publish/appsettings.Development.json
+/home/astump/src/dotnet/WebApp/bin/Release/net6.0/publish/appsettings.json
+/home/astump/src/dotnet/WebApp/bin/Release/net6.0/publish/WebApp.dll
+/home/astump/src/dotnet/WebApp/bin/Release/net6.0/publish/WebApp.deps.json
+/home/astump/src/dotnet/WebApp/bin/Release/net6.0/publish/WebApp.runtimeconfig.json
+/home/astump/src/dotnet/WebApp/bin/Release/net6.0/publish/WebApp.pdb
